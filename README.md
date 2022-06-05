@@ -12,6 +12,8 @@ If IRS1 is a probable gene for causing type 2 diabetes and mice and humans have 
 
 `Project 2 Final (1).html` : HTML file containing code, explanations, and analysis for Project 2
 
+`Project 2 Final.pdf` : PDF file containing code, explanations, and analysis for Project 2
+
 `human (1).pdb` : PDB file containing structure of human IRS1
 
 `mice.pdb`: PDB file containing structure of mice IRS1

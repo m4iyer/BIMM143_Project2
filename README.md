@@ -22,7 +22,7 @@ If IRS1 is a probable gene for causing type 2 diabetes and mice and humans have 
 
 `sequence (8).fasta` : FASTA file containing rat IRS1 sequence
 
-`E7F4P8.fasta` : FASTA file containing zebrafish IRS1 sequence
+`E7F4P8 (1).fasta` : FASTA file containing zebrafish IRS1 sequence
 
 ## References
 Peter Kovacs, Robert L. Hanson, Yong-Ho Lee, Xiaolin Yang, Sayuko Kobes, Paska A. Permana, Clifton Bogardus, Leslie J. Baier; The Role of Insulin Receptor Substrate-1 Gene (IRS1) in Type 2 Diabetes in Pima Indians. Diabetes 1 December 2003; 52 (12): 3005–3009. https://doi.org/10.2337/diabetes.52.12.3005

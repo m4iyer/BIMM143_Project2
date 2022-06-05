@@ -1,5 +1,5 @@
 # BIMM143_Project2
-Final version of Project 2 to be submitted for BIMM143
+Project 2D: Final version of Project 2 to be submitted for BIMM143
 
 ## Scientific Question
 Are mice such good animal models for diabetes because the insulin receptor substrate-1 gene (IRS1) is similar between mice and humans?

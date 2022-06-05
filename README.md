@@ -16,11 +16,11 @@ If IRS1 is a probable gene for causing type 2 diabetes and mice and humans have 
 
 `mice.pdb`: PDB file containing structure of mice IRS1
 
-`sequence (6).fasta` : FASTA file containing mice IRS1 sequence
+`sequence (6) (1).fasta` : FASTA file containing mice IRS1 sequence
 
-`sequence (7).fasta` : FASTA file containing human IRS1 sequence
+`sequence (7) (1).fasta` : FASTA file containing human IRS1 sequence
 
-`sequence (8).fasta` : FASTA file containing rat IRS1 sequence
+`sequence (8) (1).fasta` : FASTA file containing rat IRS1 sequence
 
 `E7F4P8 (1).fasta` : FASTA file containing zebrafish IRS1 sequence
 
